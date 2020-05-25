@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/skaasAssignment/static/css/main.5928ade2.chunk.css",
+    "main.js": "/skaasAssignment/static/js/main.4fa24615.chunk.js",
+    "main.js.map": "/skaasAssignment/static/js/main.4fa24615.chunk.js.map",
+    "runtime-main.js": "/skaasAssignment/static/js/runtime-main.d29517cd.js",
+    "runtime-main.js.map": "/skaasAssignment/static/js/runtime-main.d29517cd.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/skaasAssignment/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.74e86638.chunk.js": "/skaasAssignment/static/js/2.74e86638.chunk.js",
+    "static/js/2.74e86638.chunk.js.map": "/skaasAssignment/static/js/2.74e86638.chunk.js.map",
+    "index.html": "/skaasAssignment/index.html",
+    "precache-manifest.b992c6871e981bac0cf3fec02e44b69b.js": "/skaasAssignment/precache-manifest.b992c6871e981bac0cf3fec02e44b69b.js",
+    "service-worker.js": "/skaasAssignment/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/skaasAssignment/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5928ade2.chunk.css.map": "/skaasAssignment/static/css/main.5928ade2.chunk.css.map",
+    "static/js/2.74e86638.chunk.js.LICENSE.txt": "/skaasAssignment/static/js/2.74e86638.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/skaasAssignment/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d29517cd.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.74e86638.chunk.js",
+    "static/css/main.5928ade2.chunk.css",
+    "static/js/main.4fa24615.chunk.js"
+  ]
+}
