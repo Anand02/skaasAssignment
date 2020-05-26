@@ -5,12 +5,12 @@ import React from 'react';
       <table className="table table-bordered">
         <thead>
           <tr>
-            <th>Id</th>
-            <th>Date</th>
-            <th>Description</th>
-            <th>Income/Expense</th>
-            <th>Amount</th>
-            <th>Actions</th>
+            <th scope="col">Id</th>
+            <th scope="col">Date</th>
+            <th scope="col">Description</th>
+            <th scope="col">Income/Expense</th>
+            <th scope="col">Amount</th>
+            <th scope="col">Actions</th>
           </tr>
         </thead>
         <tbody>
@@ -32,7 +32,7 @@ import React from 'react';
                 )
               ) : (
                 <tr>
-                  <td colSpan={3}>No Data Display...</td>
+                  <td colSpan={6}>No Data To Display...</td>
                 </tr>
               )
             }
